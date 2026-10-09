@@ -1,8 +1,8 @@
 *
 !.gitignore
-!actividades/
-!actividades/proyecto_unidad1/
-!actividades/proyecto_unidad1/Mini_proy_U1-Carlo_Amezcua.ipynb
 !Unidad_1/
 !Unidad_1/Lab1_3_CNN-Carlo_Amezcua.ipynb
-!peces.mp4
+!Unidad_1/proyecto_unidad1/
+!Unidad_1/proyecto_unidad1/Mini_proy_U1-Carlo_Amezcua.ipynb
+!Unidad_2/
+!Unidad_2/Lab_1-how-to-count-the-objects-using-ultralytics-yolo-Carlo_Amezcua.ipynb
